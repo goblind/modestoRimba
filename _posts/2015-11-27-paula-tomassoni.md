@@ -15,4 +15,4 @@ culturales. Ha publicado la novela Leche merengada (EME.2015). PEZ y otros relat
 su primer libro de cuentos.
 
 
-<iframe width="473" height="473" src="/images/foto_tomassoni.jpg" frameborder="0"></iframe>
+<iframe width="473" height="473" src="{{ site.baseurl }}/images/foto_tomassoni.jpg" frameborder="0"></iframe>

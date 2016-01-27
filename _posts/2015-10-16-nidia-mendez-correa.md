@@ -12,6 +12,6 @@ NIDIA MÉNDEZ CORREA es uruguaya de nacimiento y argentina por adopción. Estudi
 En el 2008 aparece su primer libro Las mariposas y los cerdos. Luego, publicó en Susurros para el viento y otras antologías. Capturando estrellas es su primer volumen de poemas.
 
 
-<iframe width="475" height="475" src="/images/foto_nidia.jpg" frameborder="0"></iframe>
+<iframe width="475" height="475" src="{{ site.baseurl }}/images/foto_nidia.jpg" frameborder="0"></iframe>
 
 

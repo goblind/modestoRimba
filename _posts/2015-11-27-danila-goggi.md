@@ -13,4 +13,4 @@ DANILA GOGGI nació en Buenos Aires. Estudia Guión Audiovisual. Algunas de sus 
 
 
 
-<iframe width="473" height="473" src="/images/foto_goggi.jpg" frameborder="0"></iframe>
+<iframe width="473" height="473" src="{{ site.baseurl }}/images/foto_goggi.jpg" frameborder="0"></iframe>

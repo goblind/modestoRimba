@@ -15,4 +15,4 @@ El ángel de los techos es su primer novela.
 
 
 
-<iframe width="473" height="473" src="/images/foto_sanchez.jpg" frameborder="0"></iframe>
+<iframe width="473" height="473" src="{{ site.baseurl }}/images/foto_sanchez.jpg" frameborder="0"></iframe>

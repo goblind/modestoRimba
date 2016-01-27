@@ -14,4 +14,4 @@ ARIEL ZANDEL nació en Buenos Aires. Está a solo un par de fotocopias legalizad
 
 
 
-<iframe width="473" height="473" src="/images/foto_zandel.jpg" frameborder="0"></iframe>
+<iframe width="473" height="473" src="{{ site.baseurl }}/images/foto_zandel.jpg" frameborder="0"></iframe>

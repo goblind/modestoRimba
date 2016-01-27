@@ -12,4 +12,4 @@ JULIÁN JOEL LUCERO nació en Sunchales, Santa Fe. Trabajó en la cátedra de Mo
 
 
 
-<iframe width="473" height="473" src="/images/foto_lucero.jpg" frameborder="0"></iframe>
+<iframe width="473" height="473" src="{{ site.baseurl }}/images/foto_lucero.jpg" frameborder="0"></iframe>

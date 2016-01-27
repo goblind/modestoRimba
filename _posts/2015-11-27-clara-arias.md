@@ -15,4 +15,4 @@ Este es su primer libro de poemas, una selección de treinta y nueve que fueron 
 años 2011 y 2015.
 
 
-<iframe width="473" height="473" src="/images/foto_arias.jpg" frameborder="0"></iframe>
+<iframe width="473" height="473" src="{{ site.baseurl }}/images/foto_arias.jpg" frameborder="0"></iframe>
