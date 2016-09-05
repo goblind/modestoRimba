@@ -1,4 +1,4 @@
 name: ModestoRimba
-markdown: redcarpet
+# markdown: redcarpet
 pygments: true
 baseurl: /modestorimba
